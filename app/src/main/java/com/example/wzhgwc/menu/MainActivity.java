@@ -12,7 +12,6 @@ public class MainActivity extends AppCompatActivity {
     private TextView tv1;
     private int mcount;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
